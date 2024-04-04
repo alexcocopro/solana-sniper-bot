@@ -1,3 +1,4 @@
+
 # Solana Sniper Bot (Poc)
 This code is written as proof of concept to demonstrate how we can buy new tokens immediately after the liquidity pool is open for trading.
 
